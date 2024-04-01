@@ -21,10 +21,10 @@ Here are some of the projects I've worked on:
 
 ## Connect with Me
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/soumyadip-roy-266166281/)
-[![Twitter](https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg)](https://twitter.com/Soumyad79526951)
-[![Kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)](https://www.kaggle.com/iamsoumyadiproy)
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png)](https://www.instagram.com/soumyadip_roy26/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/24px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/soumyadip-roy-266166281/)
+[![Twitter](https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_Logo_as_of_2021.svg/24px-Twitter_Logo_as_of_2021.svg.png)](https://twitter.com/Soumyad79526951)
+[![Kaggle](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kaggle_logo.png/24px-Kaggle_logo.png)](https://www.kaggle.com/iamsoumyadiproy)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/24px-Instagram_icon.png)](https://www.instagram.com/soumyadip_roy26/)
 
 ## Thank You
 
