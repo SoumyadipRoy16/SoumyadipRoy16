@@ -1,32 +1,36 @@
 # Soumyadip's GitHub Profile
 
-<p>Welcome to my GitHub profile! <span id="cursor" style="animation: blink 0.7s infinite;">|</span></p>
-
-<p>Welcome to my GitHub profile! <span id="cursor">|</span></p>
+```html
+<p id="typing">Welcome to my GitHub profile! <span id="cursor">|</span></p>
 
 <style>
+/* Typing Animation */
 @keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
 }
 
-#cursor {
-  animation: blink 0.7s infinite;
-}
-
+/* Cursor Animation */
 @keyframes blink {
-  0% {
-    opacity: 0;
-  }
   50% {
-    opacity: 1;
+    border-color: transparent;
   }
-  100% {
-    opacity: 0;
-  }
+}
+
+/* Apply animation to the typing text */
+#typing {
+  overflow: hidden; /* Ensures the text is hidden initially */
+  border-right: 2px solid; /* Cursor effect */
+  white-space: nowrap; /* Prevents text from wrapping */
+  margin: 0 auto; /* Centers the text */
+  animation: typing 3s steps(30, end), blink 0.7s step-end infinite; /* 3s typing animation, 0.7s cursor blink */
 }
 </style>
-
+```
 
 ## About Me
 
