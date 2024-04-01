@@ -3,8 +3,8 @@
 <p>Welcome to my GitHub profile! <span id="cursor" style="animation: blink 0.7s infinite;">|</span></p>
 
 ```html
-<p>Welcome to my GitHub profile! <span id="cursor" style="animation: blink 0.7s infinite;">|</span></p>
 
+<p>Welcome to my GitHub profile! <span id="cursor" style="animation: blink 0.7s infinite;">|</span></p>
 <style>
 @keyframes blink {
   0% {
