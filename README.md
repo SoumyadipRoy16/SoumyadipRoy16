@@ -1,12 +1,21 @@
 # Soumyadip's GitHub Profile
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="30%">
-</p>
+```html
+<p>Welcome to my GitHub profile! <span id="cursor" style="animation: blink 0.7s infinite;">|</span></p>
 
-<!-- Introduction -->
-<h1 align="center">Hi there, I'm [Soumyadip Roy]! 👋</h1>
+<style>
+@keyframes blink {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+</style>
 
 ## About Me
 
