@@ -15,13 +15,7 @@ Here are some of the projects I've worked on:
   
 ## Skills
 
-### Programming Languages
-
-- Python
-- JavaScript
-- Java
-- C++
-- HTML/CSS
+![Soumyadip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyadipRoy16&show_icons=true&theme=radical)
 
 ### Technologies
 
