@@ -1,6 +1,5 @@
 # Soumyadip's GitHub Profile
 
-```html
 <p>Welcome to my GitHub profile! <span id="cursor" style="animation: blink 0.7s infinite;">|</span></p>
 
 <style>
