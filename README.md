@@ -16,6 +16,7 @@ Here are some of the projects I've worked on:
 ## Skills
 
 ![Soumyadip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyadipRoy16&show_icons=true&theme=radical)
+![Soumyadip's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyadipRoy16&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ### Technologies
 
