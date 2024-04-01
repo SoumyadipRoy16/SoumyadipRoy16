@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 👋
 
 ## About Me
 
-I'm [Soumyadip Roy], a [Programmer] based in [Kolkata,WB,India]. I'm passionate about [Machine Learning and Game Development].
+I'm Soumyadip Roy, a Programmer based in Kolkata,WB,India. I'm passionate about Machine Learning and Game Development.
 
 ## My Projects
 
