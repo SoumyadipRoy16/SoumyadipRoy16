@@ -16,7 +16,7 @@ Here are some of the projects I've worked on:
 ## Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadipRoy16&layout=compact)](https://github.com/SoumyadipRoy16)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SoumyadipRoy16&show_icons=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SoumyadipRoy16)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=SoumyadipRoy16)
 
 
