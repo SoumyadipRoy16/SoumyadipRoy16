@@ -3,9 +3,18 @@
 <p>Welcome to my GitHub profile! <span id="cursor" style="animation: blink 0.7s infinite;">|</span></p>
 
 ```html
+<p>Welcome to my GitHub profile! <span id="cursor">|</span></p>
 
-<p>Welcome to my GitHub profile! <span id="cursor" style="animation: blink 0.7s infinite;">|</span></p>
 <style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+#cursor {
+  animation: blink 0.7s infinite;
+}
+
 @keyframes blink {
   0% {
     opacity: 0;
