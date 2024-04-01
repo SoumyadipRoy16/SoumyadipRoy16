@@ -1,6 +1,12 @@
 # Soumyadip's GitHub Profile
 
-Welcome to my GitHub profile! 👋
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="30%">
+</p>
+
+<!-- Introduction -->
+<h1 align="center">Hi there, I'm [Soumyadip Roy]! 👋</h1>
 
 ## About Me
 
