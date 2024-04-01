@@ -1,8 +1,8 @@
 # Soumyadip's GitHub Profile
 
 ```html
-<p id="typing">Welcome to my GitHub profile! <span id="cursor">|</span></p>
 
+<p id="typing">Welcome to my GitHub profile! <span id="cursor">|</span></p>
 <style>
 /* Typing Animation */
 @keyframes typing {
