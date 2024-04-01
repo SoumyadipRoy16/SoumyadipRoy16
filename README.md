@@ -1,10 +1,10 @@
-# Soumyadip's GitHub Profile
+# Hey 👋, I'm Soumyadip Roy
 
-Welcome to my GitHub profile! 👋
+Welcome to my GitHub profile!
 
 ## About Me
 
-I'm Soumyadip Roy, a Programmer based in Kolkata,WB,India. I'm passionate about Machine Learning and Game Development.
+Exploring the Digital Frontier | B.Tech Computer Science Engineering Student 🎓 | Coding, Creating, and Innovating 💻
 
 ## My Projects
 
