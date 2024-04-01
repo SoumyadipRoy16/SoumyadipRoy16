@@ -1,4 +1,4 @@
-# [Soumyadip]'s GitHub Profile
+# Soumyadip's GitHub Profile
 
 Welcome to my GitHub profile! 👋
 
