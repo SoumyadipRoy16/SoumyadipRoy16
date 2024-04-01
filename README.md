@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile!
 
-## About Me
-
 Exploring the Digital Frontier | B.Tech Computer Science Engineering Student 🎓 | Coding, Creating, and Innovating 💻
 
 ## My Projects
