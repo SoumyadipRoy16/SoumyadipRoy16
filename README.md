@@ -21,8 +21,8 @@ Here are some of the projects I've worked on:
 
 ## Connect with Me
 
-- LinkedIn: [https://www.linkedin.com/in/soumyadip-roy-266166281/]
-- Twitter: [https://twitter.com/Soumyad79526951]
+- [LinkedIn](https://www.linkedin.com/in/soumyadip-roy-266166281/)
+- [Twitter](https://twitter.com/Soumyad79526951)
 
 ## Thank You
 
