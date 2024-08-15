@@ -15,7 +15,9 @@
 
 - 📫 How to reach me **soumyadiproy894@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XtNB8YCtdNt8LWP-GMVdy4OxOS0lhExd/view?usp=drive_link](https://drive.google.com/file/d/1XtNB8YCtdNt8LWP-GMVdy4OxOS0lhExd/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XtNB8YCtdNt8LWP-GMVdy4OxOS0lhExd/view?usp=drive_link)
+
+![image](https://github.com/user-attachments/assets/b3a824df-9cb9-444c-8143-0996b785e994)
 
 - ⚡ Fun fact **I am really curious about everything.**
 
