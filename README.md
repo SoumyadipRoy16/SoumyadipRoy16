@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyadiproy16" alt="soumyadiproy16" /></a> </p>
 
-- 🔭 I’m currently working on [WanderLust-Project](https://github.com/anki2003ta/WanderLust-Project)
+- 🔭 I’m currently working on [Test Management System](https://github.com/SoumyadipRoy16/TMS)
 
 - 🌱 I’m currently learning **Machine Learning with Python**
 
