@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Soumyadip Roy</h1>
-<h3 align="center">A passionate machine learning enthusiast from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumyadip+Roy;A+passionate+ML+enthusiast+%F0%9F%A7%A0;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=30&lines=Building+the+future+with+AI+%F0%9F%92%BB;Exploring+the+world+of+machine+learning+%F0%9F%94%A5" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soumyadiproy16&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadiproy16" />
@@ -89,14 +94,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-### 😂 Random Dev Meme
-
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" alt="Random Dev Meme" />
 </p>
 
 ---
