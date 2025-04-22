@@ -19,18 +19,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on [Test Management System](https://github.com/SoumyadipRoy16/TMS)
-- 🌱 I’m currently learning **Machine Learning with Python**
-- 👯 I’m looking to collaborate on [MediTrack](https://github.com/Anidipta/Status-Code-1)
-- 🤝 I’m looking for help with [MindMate](https://github.com/SoumyadipRoy16/mindmate)
-- 📫 How to reach me **soumyadiproy894@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XtNB8YCtdNt8LWP-GMVdy4OxOS0lhExd/view?usp=drive_link)
-- ⚡ Fun fact **I am really curious about everything.**
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
