@@ -50,15 +50,14 @@ I specialize in building <strong>intelligent, production-ready software</strong>
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,nextjs,nodejs,express,django,flask,html,css,tailwind,bootstrap,mongodb,mysql,postgresql,firebase,gcp,docker,git,figma" alt="Primary Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,nextjs,nodejs,express,django,flask,html,css,tailwind,bootstrap,mongodb,mysql,postgresql,firebase,gcp,docker,git,figma,tensorflow,pytorch" alt="Primary Stack" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="44" alt="Deep Learning" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="44" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="44" alt="Scikit-learn" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="44" alt="Seaborn" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="44" alt="OpenCV" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" />
 </p>
 
 ---
@@ -88,7 +87,7 @@ I specialize in building <strong>intelligent, production-ready software</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=soumyadiproy16&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=soumyadiproy16&theme=algolia&column=4&margin-w=14&margin-h=14&no-frame=false&no-bg=false" alt="Trophies" />
 </p>
 
 ---
