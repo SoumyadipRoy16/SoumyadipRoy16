@@ -95,6 +95,32 @@ I build intelligent, production-ready products from model experimentation to sca
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyadiproy16&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Soumyadip's most used languages" />
 </div>
 
+<div align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyadiproy16&theme=github_dark&animation=rgb-soft&duration=8" alt="Animated GitHub profile overview" />
+</div>
+
+## Contribution Playground
+
+<div align="center">
+  <a href="https://github.com/soumyadiproy16">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumyadiproy16/soumyadiproy16/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumyadiproy16/soumyadiproy16/output/github-snake.svg" />
+      <img width="95%" src="https://raw.githubusercontent.com/soumyadiproy16/soumyadiproy16/output/github-snake.svg" alt="Animated contribution snake" />
+    </picture>
+  </a>
+</div>
+
+<details>
+<summary><strong>Open the 3D contribution calendar</strong></summary>
+<br />
+
+<div align="center">
+  <img width="95%" src="https://raw.githubusercontent.com/soumyadiproy16/soumyadiproy16/output/github-profile-3d.svg" alt="3D contribution calendar" />
+</div>
+
+</details>
+
 <details>
 <summary><strong>View detailed contribution activity</strong></summary>
 <br />
