@@ -77,75 +77,33 @@ I build intelligent, production-ready software at the intersection of AI and mod
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" title="Figma" />
 </div>
 
-<p align="center"><sub>Python · TypeScript · JavaScript · Java · C++ · C · SQL · React · Next.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Node.js · Express · FastAPI · Django · Flask · Streamlit · REST APIs · PyTorch · TensorFlow · Scikit-learn · OpenCV · Pandas · NumPy · Matplotlib · Seaborn · Jupyter · Computer Vision · NLP · Generative AI · Deep Learning · Model Evaluation · PostgreSQL · MySQL · MongoDB · Redis · Firebase · SQLite · Docker · Kubernetes · Google Cloud · GitHub Actions · CI/CD · Vercel · Git · GitHub · Linux · Bash · npm · Postman · VS Code · Figma · System Design</sub></p>
-
-## Featured work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SoumyadipRoy16/Pragati-Aid">Pragati Aid</a></h3>
-      <p>Intelligent rainfall forecasting for stronger natural-disaster preparedness and community resilience.</p>
-      <p><a href="https://github.com/SoumyadipRoy16/Pragati-Aid"><img src="https://img.shields.io/badge/Explore_repository-181717?style=flat&logo=github&logoColor=white" alt="Explore Pragati Aid" /></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SoumyadipRoy16/RecruitFlow">RecruitFlow</a></h3>
-      <p>Multi-agent recruitment automation for JD parsing, CV analysis, bias-aware matching, and interview scheduling.</p>
-      <p><a href="https://github.com/SoumyadipRoy16/RecruitFlow"><img src="https://img.shields.io/badge/Explore_repository-181717?style=flat&logo=github&logoColor=white" alt="Explore RecruitFlow" /></a></p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/SoumyadipRoy16?tab=repositories"><strong>Browse all repositories</strong></a>
-</div>
-
 ## GitHub activity
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SoumyadipRoy16&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SoumyadipRoy16&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=SoumyadipRoy16&show_icons=true&hide_border=true&rank_icon=github" alt="Soumyadip Roy's GitHub statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyadipRoy16&theme=github_dark&animation=rise&duration=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyadipRoy16&theme=github&animation=rise&duration=2" />
+    <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumyadipRoy16&theme=github&animation=rise&duration=2" alt="Soumyadip Roy's live GitHub activity summary" />
   </picture>
+  <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SoumyadipRoy16&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SoumyadipRoy16&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=SoumyadipRoy16&layout=compact&hide_border=true" alt="Soumyadip Roy's most-used repository languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SoumyadipRoy16&theme=github-dark-blue&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SoumyadipRoy16&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=SoumyadipRoy16&theme=default&hide_border=true" alt="Soumyadip Roy's live GitHub contribution streak" />
   </picture>
 </div>
 
-<details>
-  <summary><strong>Open the contribution dashboard</strong></summary>
-  <br />
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SoumyadipRoy16&hide_border=true&background=00000000&ring=58A6FF&fire=D29922&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SoumyadipRoy16&hide_border=true&background=00000000&ring=0969DA&fire=BF8700&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F" />
-      <img src="https://streak-stats.demolab.com?user=SoumyadipRoy16&hide_border=true" alt="Soumyadip Roy's GitHub contribution streak" />
-    </picture>
-    <br />
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SoumyadipRoy16&hide_border=true&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SoumyadipRoy16&hide_border=true&bg_color=00000000&color=57606A&line=0969DA&point=0969DA&area=true&area_color=54AEFF" />
-      <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyadipRoy16&hide_border=true" alt="Soumyadip Roy's contribution activity graph" />
-    </picture>
-  </div>
-</details>
+## Contribution snake
 
-<details>
-  <summary><strong>Play the contribution animation</strong></summary>
-  <br />
-  <div align="center">
-    <a href="https://github.com/SoumyadipRoy16">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoumyadipRoy16/SoumyadipRoy16/output/github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoumyadipRoy16/SoumyadipRoy16/output/github-snake.svg" />
-        <img width="95%" src="https://raw.githubusercontent.com/SoumyadipRoy16/SoumyadipRoy16/output/github-snake.svg" alt="Animated GitHub contribution graph" />
-      </picture>
-    </a>
-  </div>
-</details>
+<div align="center">
+  <a href="https://github.com/SoumyadipRoy16">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoumyadipRoy16/SoumyadipRoy16/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoumyadipRoy16/SoumyadipRoy16/output/github-contribution-grid-snake.svg" />
+      <img width="95%" src="https://raw.githubusercontent.com/SoumyadipRoy16/SoumyadipRoy16/output/github-contribution-grid-snake.svg" alt="Snake animation moving through Soumyadip Roy's GitHub contribution grid" />
+    </picture>
+  </a>
+</div>
 
 ## Connect
 
