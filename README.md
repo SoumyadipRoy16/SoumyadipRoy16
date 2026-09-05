@@ -93,18 +93,6 @@ I build intelligent, production-ready software at the intersection of AI and mod
   </picture>
 </div>
 
-## Contribution snake
-
-<div align="center">
-  <a href="https://github.com/SoumyadipRoy16">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoumyadipRoy16/SoumyadipRoy16/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoumyadipRoy16/SoumyadipRoy16/output/github-contribution-grid-snake.svg" />
-      <img width="95%" src="https://raw.githubusercontent.com/SoumyadipRoy16/SoumyadipRoy16/output/github-contribution-grid-snake.svg" alt="Snake animation moving through Soumyadip Roy's GitHub contribution grid" />
-    </picture>
-  </a>
-</div>
-
 ## Connect
 
 I am open to thoughtful conversations about applied AI, product engineering, open source, and collaborative builds.
